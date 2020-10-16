@@ -4,5 +4,7 @@ Copyright © 2019 by United Nations, made available under a Creative Commons lic
 Suggested citation: United Nations, Department of Economic and Social Affairs, Population Division (2019).
 International Migrant Stock 2019 (United Nations database, POP/DB/MIG/Stock/Rev.2019).
 
+Источник данных: United Nations, Department of Economic and Social Affairs, Population Division
+
 
 
