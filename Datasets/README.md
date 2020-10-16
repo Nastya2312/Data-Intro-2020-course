@@ -5,6 +5,8 @@ Suggested citation: United Nations, Department of Economic and Social Affairs, P
 International Migrant Stock 2019 (United Nations database, POP/DB/MIG/Stock/Rev.2019).
 
 Источник данных: United Nations, Department of Economic and Social Affairs, Population Division
+https://www.un.org/en/development/desa/population/migration/data/estimates2/estimates17.asp
+
 
 
 
