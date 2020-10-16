@@ -1,0 +1,20 @@
+void setup() {
+   size(500, 400);
+   background(10, 200, 100);
+}
+
+void draw() {
+  if (mousePressed) {
+    background(100, 90, 100);
+}
+
+stroke(200, 255, 255);
+fill(100, 220, 90);
+ellipse(mouseX, 200, 300, 300);
+
+fill(90, 210, 230);
+rect(235, mouse, 10, 240);
+
+fill(280, 255, 250);
+ellipse(mouseX, mouseY, 300, 300);
+}
